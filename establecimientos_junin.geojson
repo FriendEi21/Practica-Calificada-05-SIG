@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Hospital Nacional Ramiro Prialé Prialé (EsSalud)",
+        "tipo": "Hospital Nivel IV",
+        "distrito": "El Tambo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2178, -12.0543]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Hospital Regional Daniel Alcides Carrión",
+        "tipo": "Hospital Regional",
+        "distrito": "Huancayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2133, -12.0754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Hospital Regional Materno Infantil El Carmen",
+        "tipo": "Hospital Especializado",
+        "distrito": "Huancayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2138, -12.0677]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Policlínico Metropolitano Huancayo (EsSalud)",
+        "tipo": "Policlínico",
+        "distrito": "Huancayo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2089, -12.0688]
+      }
+    }
+  ]
+}
